@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/activity_main.xml" value="0.1693840579710145" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/mainactive.xml" value="0.2140625" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/sample_my_title_view.xml" value="0.18489583333333334" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/subview.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/title01.xml" value="0.1265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
