@@ -33,8 +33,15 @@ class MainActivity : AppCompatActivity() {
         listView.setOnItemClickListener { parent, view, position, id ->
             val num = data[position]
             Toast.makeText(this,num,Toast.LENGTH_SHORT).show()
-
         }
+
+        val testBtn2 = findViewById<Button>(R.id.testBtn02)
+        testBtn2.setOnClickListener {
+            Toast.makeText(this, "click this btn02 for test RecycleView", Toast.LENGTH_SHORT).show()
+            val intentRecycleView = Intent(this,recycleViewActivity::class.java)
+            startActivity(intentRecycleView)
+        }
+
 
     }
 

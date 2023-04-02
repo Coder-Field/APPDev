@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/activity_main.xml" value="0.1693840579710145" />
         <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/mainactive.xml" value="0.2140625" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/recycle_view.xml" value="0.15885416666666666" />
         <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/sample_my_title_view.xml" value="0.18489583333333334" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/selef_recycleview.xml" value="0.24739583333333334" />
+        <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/self_listview.xml" value="0.45555555555555555" />
         <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/subview.xml" value="0.2" />
         <entry key="..\:/AndroidProject/TestKotlinDemo01/app/src/main/res/layout/title01.xml" value="0.1265625" />
       </map>
