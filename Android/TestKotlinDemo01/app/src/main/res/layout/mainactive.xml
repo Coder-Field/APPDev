@@ -24,11 +24,17 @@
         android:id="@+id/testBtn01"
         android:text="test btn01"/>
 
+    <Button
+        android:id="@+id/testBtn02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TestRecycleView"/>
+
     <ListView
         android:id="@+id/listView01"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/purple_200"/>
+        android:background="@color/purple_200" />
 
 
 </LinearLayout>
