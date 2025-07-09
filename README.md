@@ -4,7 +4,7 @@
 
 ### 1、git提交规范
 
-提交简要如下：
+Commit subject: 须以动词开头，常见使用场景如下
 ```text
 --feat:         新功能(fature)
 --fix:          修复bug
@@ -18,14 +18,21 @@
 --improvement:  代码改进
 --build:        打包操作
 --ci:           持续集成
+
+示例：
+feat(payment): integrate PayPal gateway  
 ```
 
-提交格式如下：
+Description： 提交的详细描述，示例如下
 ```text
-【功能描述】master分支持续更新中  
-【提交人】bxc									
-【日期】2023/04/04
-【审核人】/
+
+- 新增 PayPal SDK 依赖与配置  
+- 实现支付回调校验逻辑  
+- 添加失败重试机制（最多 3 次）  
+  
+Closes #112  
+ 
+
 ```
 
 ```text
